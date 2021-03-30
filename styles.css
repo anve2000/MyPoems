@@ -1,5 +1,5 @@
 body{
-  background-image: url("https://i.pinimg.com/originals/86/cc/bb/86ccbb5469e5192dbdc7c031ca45d0c2.gif");
+  background-image: url("https://thumbs.gfycat.com/NextSourHapuka-small.gif");
   text-align: center;
 }
 
@@ -8,11 +8,27 @@ h1
   color:white;
 }
 
+.HerStory:h1{
+  color: black;
+}
+
 p{
   color:white;
 }
 
 hr{
   height: 50px;
-  
+  border:0;
+}
+
+.HerStory
+{
+  background-image: url("https://thumbs.gfycat.com/ConsciousMadeupDwarfrabbit.webp");
+}
+
+.Lockdown{
+  background-image:url("https://i.gifer.com/CBgn.gif");
+}
+.Night{
+  background-image: url("https://img.cloudygif.com/medium/05c5b50d938306fe.gif");
 }
